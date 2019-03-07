@@ -9,7 +9,10 @@ It supported installation of Installler and Cydia packages from your Desktop.
 While InstallerApp cannot be open sourced for multiple reasons (If you read Russian feel free to read the backstory at http://ripdev.com) the graphics should not be lost in history. 
 
 
-For people wanting to see InstallerApp:
+For people wanting to see or use InstallerApp on iPhoneOS 2:
 
 ### Download
 https://apptapp.me/media/InstallerApp.zip
+
+Note: To use InstallerApp on iPhoneOS 2 you need to download InstallerApp support
+https://github.com/SammyGuichelaar/RiPDev-Cydia-Packages/raw/master/installerapp-support.deb
