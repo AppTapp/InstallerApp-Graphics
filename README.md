@@ -1,5 +1,10 @@
 # InstallerApp Graphics
-.psd file for the InstallerApp icon for Mac OS X client 
+.psd files for the InstallerApp icon. (Mac OS X Client)
+
+<p align="center">
+  <img width="256" height="256" src="https://apptapp.me/media/InstallerApp_512x512.png">
+</p>
+
 
 ### InstallerApp was the 'iTunes for jailbreakers' back during the iPhoneOS 2 days. 
 It supported installation of Installler and Cydia packages from your Desktop.
