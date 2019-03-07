@@ -16,3 +16,9 @@ https://apptapp.me/media/InstallerApp.zip
 
 Note: To use InstallerApp on iPhoneOS 2 you need to download InstallerApp support
 https://github.com/SammyGuichelaar/RiPDev-Cydia-Packages/raw/master/installerapp-support.deb
+
+
+### Credits
+Designer: Max Rudberg
+http://www.maxrudberg.com
+https://twitter.com/maxrudberg
